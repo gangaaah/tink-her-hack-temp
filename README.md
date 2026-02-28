@@ -2,14 +2,14 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [SMART ELECTRICITY ASSISTANT] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Velora]
 
 ### Team Members
-- Member 1: [Name] - [College]
+- Member 1: [] - [College]
 - Member 2: [Name] - [College]
 
 ### Hosted Project Link
